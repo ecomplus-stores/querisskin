@@ -1,7 +1,7 @@
 {
   "domain": "querisskin.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#81cace",
+  "primary_color": "#653075",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#653075",
+  "secondary_color": "#91cace",
   "icon": "/img/icon.png",
   "store_id": 51471,
   "description": "querisskin",
