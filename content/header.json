@@ -1,10 +1,21 @@
 {
+  "categories_list": {
+    "featured": [],
+    "random": 5,
+    "full_width": false
+  },
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": "APROVEITE OS MELHORES PRODUTOS",
     "link": "/promotion",
     "background": "#6ac3d7",
     "color": "#2c4980"
   },
+  "alphabetical_order_submenu": false,
+  "popup": "/img/uploads/imagem-do-whatsapp-de-2023-10-17-a-s-16.32.04_f48d52be.jpg",
+  "search_input": true,
+  "desktop_megamenu": false,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
@@ -18,15 +29,5 @@
     ],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  }
 }
