@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#653075",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#6ac3d7",
   "repository": "ecomplus-stores/querisskin",
@@ -21,6 +21,6 @@
   "secondary_color": "#91cace",
   "icon": "/img/uploads/354031108_817064259529467_7894490527394847092_n.jpg",
   "store_id": 51471,
-  "description": "querisskin",
+  "description": "💎 Dermocosméticos para todos os tipos de pele\nInovação e tecnologia de alta performance!",
   "large_icon": "/img/large-icon.png"
 }
