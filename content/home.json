@@ -48,7 +48,8 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "653ada792cd6b659598c0f4a:categories:HIDRATANTE:/hidratante"
+        "653ada792cd6b659598c0f4a:categories:HIDRATANTE:/hidratante",
+        "653c22652cd6b659598d8e38:categories:KITS:/kits"
       ],
       "sort": "sales",
       "shelfs_title": "HIDRATANTES"
