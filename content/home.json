@@ -55,7 +55,14 @@
     {
       "type": "review-carousel",
       "autoplay": 9000,
-      "title": "QUEM USA QUERIS SKIN  DIZ"
+      "title": "QUEM USA QUERIS SKIN  DIZ",
+      "reviews": [
+        {
+          "nome": "Dra LETÍCIA GARCIA",
+          "cidade": "BELO HORIZONTE ",
+          "texto": "Estou adorando o sabonete revitalisation,estou gostando mesmo !lavando meu rosto todos os dias com ele .Muito bom!!!"
+        }
+      ]
     },
     {
       "type": "page-title",
