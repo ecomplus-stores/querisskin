@@ -4,7 +4,7 @@
     "random": 5,
     "full_width": false
   },
-  "centralized_logo": false,
+  "centralized_logo": true,
   "marketing_stripe": {
     "text": "APROVEITE OS MELHORES PRODUTOS",
     "link": "/promotion",
