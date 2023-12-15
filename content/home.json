@@ -14,37 +14,6 @@
       "page": 1
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "653ad9b72cd6b659598c0ca2:categories:SABONETE:/sabonete",
-      "sort": "views",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "653c22652cd6b659598d8e38:categories:KITS:/kits",
-      "title": "KITS ACNE",
-      "autoplay": 0
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "653ada792cd6b659598c0f4a:categories:HIDRATANTE:/hidratante",
-        "653c22652cd6b659598d8e38:categories:KITS:/kits"
-      ],
-      "sort": "sales",
-      "shelfs_title": "HIDRATANTES"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
