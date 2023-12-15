@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".responsive-baner {\n  max-width: 1000px;\n}",
   "html_head": "",
   "html_body": ""
 }
