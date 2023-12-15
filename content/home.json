@@ -8,28 +8,10 @@
       "mobile_img": "/img/uploads/banner-1200-x-300-px-.png"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-site-mobile-1.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-1200-x-300-px-.png",
-          "mobile_img": "/img/uploads/banner-site-mobile-1.png"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "653ad9b72cd6b659598c0ca2:categories:SABONETE:/sabonete",
-      "sort": null,
+      "sort": "views",
       "title": "",
       "headless": false,
       "limit": 12,
