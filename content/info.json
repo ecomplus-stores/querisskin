@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "GRÁTIS EM COMRPAS ACIMA DE R$198"
   },
   "installments": {
     "show": true,
