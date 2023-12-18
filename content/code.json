@@ -1,5 +1,5 @@
 {
-  "css": ".product-card__buy.fade {\n  opacity: 1 !important;\n}\n",
+  "css": ".product-card__buy.fade {\n  opacity: 1 !important;\n}\n.product-card__buy button {\nbackground-color: #25BA34;\nborder-color: #25BA34;\n}",
   "html_head": "",
   "html_body": ""
 }
