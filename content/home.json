@@ -47,27 +47,6 @@
           "texto": "passando para te dar o feedback  Estou apaixonada pelo sabonete revitalizante 💙 com um dia de uso senti uma diferença enorme!!!!  Senti meu rosto mais claro minha pele esta macia feito algodão minha pele esta muito bonita e iluminada!!  Só acho que mais mulheres deveriam ter conhecimento da linha ,dessa marca por que ela ja é sucesso e assim que acabar ja quero outro!!!  Muito obrigada!!!⭐⭐⭐⭐⭐"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/resultado-1.png"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/resultado-1.png"
-        },
-        {
-          "img": "/img/uploads/resultado-2.png"
-        },
-        {
-          "img": "/img/uploads/resultado-3.png"
-        },
-        {
-          "img": "/img/uploads/resultado-4.png"
-        }
-      ]
     }
   ]
 }
