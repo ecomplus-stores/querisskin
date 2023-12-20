@@ -43,7 +43,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/resultado-4.png"
+          "img": "/img/uploads/resultado-4.png",
+          "mobile_img": "/img/uploads/resultado-4.jpg"
         }
       ]
     },
