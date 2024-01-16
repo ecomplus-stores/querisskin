@@ -4,8 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-1200-x-300-px-.png",
-      "mobile_img": "/img/uploads/banner-site-mobile-1.png"
+      "img": "/img/uploads/banner-web-niver-boss.png",
+      "mobile_img": "/img/uploads/banner-mobile-niver-boss.png"
     },
     {
       "type": "collection-shelf",
