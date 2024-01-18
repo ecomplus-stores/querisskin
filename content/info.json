@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil",
-    "title": "NIVER DA BOSS 🎉FRETE GRÁTIS EM TODOS OS PRODUTOS 🎁"
+    "text": "ENTREGAMOS PARA TODO BRASIL",
+    "title": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$160"
   },
   "installments": {
     "show": true,
@@ -14,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "15%  DE DESCONTO 💙  A BOSS ESTÁ FAZENDO ANIVERSÁRIO E QUEM GANHA É VOCÊ!!!"
+    "text": "APROVEITE O DESCONTO!!!"
   }
 }
