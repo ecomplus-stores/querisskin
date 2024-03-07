@@ -4,8 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-1200-x-300-px-.png",
-      "mobile_img": "/img/uploads/banner-site-mobile-1.png"
+      "img": "/img/uploads/computador.jpg",
+      "mobile_img": "/img/uploads/mobile.jpg"
     },
     {
       "type": "collection-shelf",
