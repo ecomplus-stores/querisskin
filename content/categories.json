@@ -31,6 +31,11 @@
           "img": "/img/uploads/banner-site-mobile-1.png"
         }
       ]
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     }
   ]
 }
