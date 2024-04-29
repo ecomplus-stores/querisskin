@@ -16,6 +16,13 @@
       "sort": "views"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "OS PREFERIDOS DAS QUERIS "
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
