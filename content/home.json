@@ -12,7 +12,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "OS PREFERIDOS DAS QUERIS "
+      "title": "OS PREFERIDOS DAS QUERIS ",
+      "sort": "views"
     },
     {
       "type": "info-bar",
