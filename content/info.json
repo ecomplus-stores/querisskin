@@ -2,7 +2,7 @@
   "shipping": {
     "show": true,
     "text": "ENTREGAMOS PARA TODO BRASIL",
-    "title": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$160"
+    "title": "GANHE 1 NECESSERIE NAS COMPRAS ACIMA DE 180"
   },
   "installments": {
     "show": true,
@@ -15,6 +15,7 @@
   "promo": {
     "show": true,
     "text": "",
-    "title": "APROVEITE O DESCONTO!"
+    "title": "APROVEITE O DESCONTO!",
+    "link": "https://www.querisskin.com.br/82263"
   }
 }
