@@ -2,11 +2,13 @@
   "shipping": {
     "show": true,
     "text": "ENTREGAMOS PARA TODO BRASIL",
-    "title": "GANHE 1 NECESSARIE NAS COMPRAS ACIMA DE 180"
+    "title": "GANHE 1 NECESSARIE NAS COMPRAS ACIMA DE 180",
+    "link": "https://www.querisskin.com.br/82263"
   },
   "installments": {
     "show": true,
-    "text": "PARCELE EM 6X SEM JUROS "
+    "text": "PARCELE EM 6X SEM JUROS ",
+    "link": "https://www.querisskin.com.br/82263"
   },
   "exchange": {
     "show": false,
