@@ -8,6 +8,19 @@
       "mobile_img": "/img/uploads/banner-mobile-480-x-300-dia-das-maes.jpg"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-desktop-1200-x-300-dia-das-maes.jpg",
+          "mobile_img": "/img/uploads/banner-mobile-480-x-300-dia-das-maes.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
