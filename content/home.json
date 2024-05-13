@@ -3,11 +3,6 @@
   "meta_description": "+QUE SKIN CARE É AMOR PRÓPRIO!💎",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-desktop-1200-x-300-dia-das-maes.jpg",
-      "mobile_img": "/img/uploads/banner-mobile-480-x-300-dia-das-maes.jpg"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
