@@ -16,7 +16,7 @@
   "mini_logo": "/img/uploads/logo-querisskin.jpg",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.jpg",
-  "icons_font": "_",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#91cace",
   "icon": "/img/uploads/favicon.jpg",
