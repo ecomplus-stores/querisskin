@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.347e3408c6d4828312a67c5a1bcf123e.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.9616347091deeb8326f8197cf8aa4432.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.936b8ef055e4651f0cfb4104818eaab0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.2195be443effd16b860344e9662e4ef8.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.35f8d0486da8a61fae94aa4ea5be0028.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "querisskin ",
+  "short_name": "QUERIS SKIN",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "💎 Dermocosméticos para todos os tipos de pele\nInovação e tecnologia de alta performance!",
+  "background_color": "#6ac3d7",
+  "theme_color": "#6ac3d7"
+}
